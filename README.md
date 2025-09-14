@@ -1,2 +1,0 @@
-# Haikal-web 
-Gacorr
